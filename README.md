@@ -7,6 +7,8 @@
 ## Шаг 1: Создание Telegram бота
 
 1. Напишите [@BotFather](https://t.me/BotFather) и создайте нового бота командой `/newbot`.
+<img width="500" height="983" alt="image" src="https://github.com/user-attachments/assets/b5782e18-5191-4c98-90a7-72b05dff8c42" />
+
     
 2. Сохраните полученный **API Token**.
 
