@@ -7,10 +7,10 @@
 ## Шаг 1: Создание Telegram бота
 
 1. Напишите [@BotFather](https://t.me/BotFather) и создайте нового бота командой `/newbot`.
-<img width="500" height="983" alt="image" src="https://github.com/user-attachments/assets/b5782e18-5191-4c98-90a7-72b05dff8c42" />
 
-    
 2. Сохраните полученный **API Token**.
+
+<img width="500" height="654" alt="Без названия" src="https://github.com/user-attachments/assets/16c5dca2-c068-4821-8a40-2c93ccf5da38" />
 
 ## Шаг 2: Настройка прокси (Cloudflare Worker)
 
@@ -35,6 +35,9 @@ export default {
 };
 ```
 4. Нажмите **Deploy** и скопируйте адрес вашего воркера (будет похож на `https://имя.workers.dev`).
+
+<img width="1920" height="4096" alt="Без названия" src="https://github.com/user-attachments/assets/69932ca0-9854-42f9-ac38-1b207152a8a6" />
+
 
 ## Шаг 3: Запуск и привязка
 
